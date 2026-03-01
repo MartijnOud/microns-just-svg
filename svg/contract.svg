@@ -1,1 +1,1 @@
-<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" ><title>contract</title><path d="M300 210l120 0 0-40-80 0 0-70-40 0 0 110z m-240 100l80 0 0 60 40 0 0-100-120 0 0 40z m0-100l120 0 0-110-40 0 0 70-80 0 0 40z m240 160l40 0 0-60 80 0 0-40-120 0 0 100z" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480"><title>contract</title><path d="M300 210h120v-40h-80v-70h-40zM60 310h80v60h40V270H60zm0-100h120V100h-40v70H60zm240 160h40v-60h80v-40H300z"/></svg>

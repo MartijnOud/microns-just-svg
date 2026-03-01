@@ -1,1 +1,1 @@
-<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" ><title>sort-desc</title><path d="M60 140l360 0 0-40-360 0 0 40z m0 240l120 0 0-40-120 0 0 40z m0-80l200 0 0-40-200 0 0 40z m0-80l280 0 0-40-280 0 0 40z" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480"><title>sort-desc</title><path d="M60 140h360v-40H60zm0 240h120v-40H60zm0-80h200v-40H60zm0-80h280v-40H60z"/></svg>
